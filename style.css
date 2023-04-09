@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-container{
+    width: 200px;
+    height: 350px;
+    background-color: burlywood;
+    display: grid;
+    grid-template-columns: repeat(150px, 4);
+}
+button{
+    background-color: lightblue;
+}
