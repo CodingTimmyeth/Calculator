@@ -29,8 +29,9 @@ body{
     display: flex;
     align-items: flex-end;
     justify-content: end;
-    padding: 1rem;
-    font-size: 3rem;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+    font-size: 1.5rem;
 }
 .inputs{
     display: grid;
